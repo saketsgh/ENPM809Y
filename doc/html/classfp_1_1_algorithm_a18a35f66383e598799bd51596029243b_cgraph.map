@@ -1,0 +1,33 @@
+<map id="fp::Algorithm::solve_V2" name="fp::Algorithm::solve_V2">
+<area shape="rect" id="node2" href="$classfp_1_1_a_p_i.html#a5a7c59cffb4ca483e8c1334a99a04dbb" title="A static prototype to set the color of the cell at the given position. " alt="" coords="437,5,557,32"/>
+<area shape="rect" id="node3" href="$classfp_1_1_maze.html#a6e83ccf3dfe2465ae1c6f6f26e99a276" title="fp::Maze::updateCell" alt="" coords="224,655,367,681"/>
+<area shape="rect" id="node5" href="$classfp_1_1_maze.html#ab89c2512eac2f9cd87938874b5f3299e" title="Accessor. " alt="" coords="836,655,973,681"/>
+<area shape="rect" id="node9" href="$classfp_1_1_maze.html#ad6ce198dc2851108f96d2bc51c675108" title="Accessor. " alt="" coords="635,908,769,935"/>
+<area shape="rect" id="node13" href="$classfp_1_1_land_based_robot.html#aacbbcc2e0e8ac563b702c2f1cc79ae95" title="fp::LandBasedRobot\l::get_x" alt="" coords="427,57,568,98"/>
+<area shape="rect" id="node14" href="$classfp_1_1_land_based_robot.html#abcd218329b80e65f6c969e5ae0d68e8b" title="fp::LandBasedRobot\l::get_y" alt="" coords="427,122,568,163"/>
+<area shape="rect" id="node15" href="$classfp_1_1_land_based_robot.html#ad4a0e1fdac24ed964edef9f5196bd146" title="fp::LandBasedRobot\l::GetDirection" alt="" coords="631,517,773,558"/>
+<area shape="rect" id="node16" href="$classfp_1_1_a_p_i.html#a390976eee05262068b7387f1421d906a" title="A static prototype to know when reset button is pressed. " alt="" coords="230,756,361,783"/>
+<area shape="rect" id="node17" href="$classfp_1_1_algorithm.html#ae0a3717ba0b9a34b6caa9c4924a263f6" title="checkGoal: Function checks if a coordinate is a goal block. " alt="" coords="212,807,379,833"/>
+<area shape="rect" id="node18" href="$classfp_1_1_a_p_i.html#a0c30419c7237b12bc916ce17f93a5be4" title="A static prototype to allow the robot to be moved back to the start of the maze. " alt="" coords="232,857,359,884"/>
+<area shape="rect" id="node19" href="$classfp_1_1_a_p_i.html#a68f86debe50e6e2ae0c1fde795a1cfb6" title="A static prototype to clear the color of all the cells. " alt="" coords="223,908,368,935"/>
+<area shape="rect" id="node20" href="$classfp_1_1_a_p_i.html#ae0b4d27428aad11e98647b88947f2c34" title="A static prototype to clear the text of all cells. " alt="" coords="225,959,365,985"/>
+<area shape="rect" id="node21" href="$classfp_1_1_a_p_i.html#a4635f5c0c48d2ab53f4436be402c5566" title="A static prototype to set the text of the cell at the given position. " alt="" coords="238,1009,353,1036"/>
+<area shape="rect" id="node22" href="$classfp_1_1_algorithm.html#a91b7fdcd875065247a6cd1f730af241d" title="plotPath: Function plots the path for the navigating robot. " alt="" coords="219,257,371,284"/>
+<area shape="rect" id="node23" href="$classfp_1_1_land_based_robot.html#ac3a30a3e6250b66a1b43b0e89d7beef9" title="fp::LandBasedRobot\l::set_x" alt="" coords="427,187,568,229"/>
+<area shape="rect" id="node24" href="$classfp_1_1_land_based_robot.html#aeb37518762c4e0753b84c9342796d27e" title="fp::LandBasedRobot\l::set_y" alt="" coords="427,305,568,346"/>
+<area shape="rect" id="node25" href="$classfp_1_1_land_based_robot.html#ac5e88a129507a8613f62bda13853882d" title="fp::LandBasedRobot\l::SetDirection" alt="" coords="427,370,568,411"/>
+<area shape="rect" id="node29" href="$classfp_1_1_algorithm.html#a6bedc590b9395c6e624f8e3c3f8eb7a9" title="turn: Function turns the robot orientation. " alt="" coords="434,436,561,463"/>
+<area shape="rect" id="node32" href="$classfp_1_1_land_based_robot.html#acb5f575b66c4d0fd28ff85c7b49d79d7" title="fp::LandBasedRobot\l::MoveForward" alt="" coords="427,487,568,529"/>
+<area shape="rect" id="node4" href="$classfp_1_1_maze.html#a82b3bddce66c152738c5d48c2a737ee5" title="fp::Maze::isWall" alt="" coords="439,756,556,783"/>
+<area shape="rect" id="node10" href="$classfp_1_1_maze.html#a38f1f91ea18470f89c30bf38243fbd99" title="fp::Maze::setWall" alt="" coords="435,705,560,732"/>
+<area shape="rect" id="node12" href="$classfp_1_1_maze.html#ada5319c8dd48f2c3c178f82e71f4655d" title="fp::Maze::clearWall" alt="" coords="430,655,565,681"/>
+<area shape="rect" id="node6" href="$classfp_1_1_a_p_i.html#a52c23ca6b94cd561727e63c4a568bb86" title="A static prototype to check there is a wall in front of the robot. " alt="" coords="640,756,764,783"/>
+<area shape="rect" id="node7" href="$classfp_1_1_a_p_i.html#a49efec34a5521b6a7f202759f7f758d2" title="A static prototype to check there is a wall to the left of the robot. " alt="" coords="644,807,760,833"/>
+<area shape="rect" id="node8" href="$classfp_1_1_a_p_i.html#aeaebbd3b022bc0ed768dc3112ea1db94" title="A static prototype to check there is a wall to the right of the robot. " alt="" coords="639,857,765,884"/>
+<area shape="rect" id="node11" href="$classfp_1_1_maze.html#a3917e67f153c5fe03f6a6462e8e066e4" title="fp::Maze::convert2MazeY" alt="" coords="616,655,788,681"/>
+<area shape="rect" id="node26" href="$classfp_1_1_maze.html#a0b60acf5aec3346d21921aceed16abe2" title="fp::Maze::printCell" alt="" coords="433,253,562,280"/>
+<area shape="rect" id="node27" href="$classfp_1_1_a_p_i.html#a19710a245ad8c075066046617ea3377b" title="A static prototype to clear the wall at the given position. " alt="" coords="639,228,765,255"/>
+<area shape="rect" id="node28" href="$classfp_1_1_a_p_i.html#a5f209e53ce63ad478bb67b120b34c7dd" title="A static prototype to display the wall at the given position. " alt="" coords="645,279,759,305"/>
+<area shape="rect" id="node30" href="$classfp_1_1_land_based_robot.html#a7c9e5fccc618e2e0d301605e60510ff0" title="fp::LandBasedRobot\l::TurnRight" alt="" coords="631,375,773,417"/>
+<area shape="rect" id="node31" href="$classfp_1_1_land_based_robot.html#ae02326643473f9af46f839743b880341" title="fp::LandBasedRobot\l::TurnLeft" alt="" coords="631,441,773,482"/>
+</map>

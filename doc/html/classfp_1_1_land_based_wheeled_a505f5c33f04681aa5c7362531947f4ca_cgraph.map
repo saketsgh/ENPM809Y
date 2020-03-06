@@ -1,0 +1,5 @@
+<map id="fp::LandBasedWheeled::TurnRight" name="fp::LandBasedWheeled::TurnRight">
+<area shape="rect" id="node2" href="$classfp_1_1_land_based_wheeled.html#adaafaceb388374ffb9cec28301665492" title="GetDirection: Getter function that returns the direction, the robot is facing in. ..." alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node3" href="$classfp_1_1_a_p_i.html#ac346f1c3ae7a39829c16681be2f25e92" title="A static prototype to turn the robot ninty degrees to the right. " alt="" coords="227,71,351,98"/>
+<area shape="rect" id="node4" href="$classfp_1_1_land_based_wheeled.html#a5d19e45c1ce0bc688d8ed84129661027" title="SetDirection: Setter function that returns the direction, the robot is facing in. ..." alt="" coords="211,123,368,164"/>
+</map>

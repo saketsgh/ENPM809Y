@@ -1,0 +1,23 @@
+<map id="fp::Algorithm::solve" name="fp::Algorithm::solve">
+<area shape="rect" id="node2" href="$classfp_1_1_maze.html#ab89c2512eac2f9cd87938874b5f3299e" title="Accessor. " alt="" coords="816,240,953,266"/>
+<area shape="rect" id="node3" href="$classfp_1_1_maze.html#ad6ce198dc2851108f96d2bc51c675108" title="Accessor. " alt="" coords="615,277,749,304"/>
+<area shape="rect" id="node4" href="$classfp_1_1_a_p_i.html#a4635f5c0c48d2ab53f4436be402c5566" title="A static prototype to set the text of the cell at the given position. " alt="" coords="203,100,318,126"/>
+<area shape="rect" id="node5" href="$classfp_1_1_a_p_i.html#a5a7c59cffb4ca483e8c1334a99a04dbb" title="A static prototype to set the color of the cell at the given position. " alt="" coords="405,74,525,101"/>
+<area shape="rect" id="node6" href="$classfp_1_1_a_p_i.html#a390976eee05262068b7387f1421d906a" title="A static prototype to know when reset button is pressed. " alt="" coords="195,201,326,228"/>
+<area shape="rect" id="node7" href="$classfp_1_1_algorithm.html#ae0a3717ba0b9a34b6caa9c4924a263f6" title="checkGoal: Function checks if a coordinate is a goal block. " alt="" coords="381,252,548,278"/>
+<area shape="rect" id="node8" href="$classfp_1_1_algorithm.html#af994d1b2acf6af1bebc968b6bff3331a" title="solve: Function takes in the maze and returns the vector of directions to be followed. " alt="" coords="195,150,326,177"/>
+<area shape="rect" id="node9" href="$classfp_1_1_a_p_i.html#a0c30419c7237b12bc916ce17f93a5be4" title="A static prototype to allow the robot to be moved back to the start of the maze. " alt="" coords="197,353,324,380"/>
+<area shape="rect" id="node10" href="$classfp_1_1_a_p_i.html#a68f86debe50e6e2ae0c1fde795a1cfb6" title="A static prototype to clear the color of all the cells. " alt="" coords="188,404,333,430"/>
+<area shape="rect" id="node11" href="$classfp_1_1_maze.html#a82b3bddce66c152738c5d48c2a737ee5" title="fp::Maze::isWall" alt="" coords="406,429,523,456"/>
+<area shape="rect" id="node15" href="$classfp_1_1_maze.html#a38f1f91ea18470f89c30bf38243fbd99" title="fp::Maze::setWall" alt="" coords="402,556,527,582"/>
+<area shape="rect" id="node17" href="$classfp_1_1_maze.html#a6e83ccf3dfe2465ae1c6f6f26e99a276" title="fp::Maze::updateCell" alt="" coords="189,505,332,532"/>
+<area shape="rect" id="node19" href="$classfp_1_1_algorithm.html#a40a913ec91fccbdf86979634d21958fe" title="turn: Function turns the robot orientation. " alt="" coords="197,606,324,633"/>
+<area shape="rect" id="node20" href="$classfp_1_1_maze.html#a0b60acf5aec3346d21921aceed16abe2" title="fp::Maze::printCell" alt="" coords="196,657,325,684"/>
+<area shape="rect" id="node12" href="$classfp_1_1_a_p_i.html#a52c23ca6b94cd561727e63c4a568bb86" title="A static prototype to check there is a wall in front of the robot. " alt="" coords="620,378,744,405"/>
+<area shape="rect" id="node13" href="$classfp_1_1_a_p_i.html#a49efec34a5521b6a7f202759f7f758d2" title="A static prototype to check there is a wall to the left of the robot. " alt="" coords="624,429,740,456"/>
+<area shape="rect" id="node14" href="$classfp_1_1_a_p_i.html#aeaebbd3b022bc0ed768dc3112ea1db94" title="A static prototype to check there is a wall to the right of the robot. " alt="" coords="619,480,745,506"/>
+<area shape="rect" id="node16" href="$classfp_1_1_maze.html#a3917e67f153c5fe03f6a6462e8e066e4" title="fp::Maze::convert2MazeY" alt="" coords="596,530,768,557"/>
+<area shape="rect" id="node18" href="$classfp_1_1_maze.html#ada5319c8dd48f2c3c178f82e71f4655d" title="fp::Maze::clearWall" alt="" coords="397,505,532,532"/>
+<area shape="rect" id="node21" href="$classfp_1_1_a_p_i.html#a19710a245ad8c075066046617ea3377b" title="A static prototype to clear the wall at the given position. " alt="" coords="402,682,527,709"/>
+<area shape="rect" id="node22" href="$classfp_1_1_a_p_i.html#a5f209e53ce63ad478bb67b120b34c7dd" title="A static prototype to display the wall at the given position. " alt="" coords="407,632,522,658"/>
+</map>

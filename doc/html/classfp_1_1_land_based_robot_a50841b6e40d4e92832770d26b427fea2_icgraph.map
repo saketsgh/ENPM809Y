@@ -1,0 +1,6 @@
+<map id="fp::LandBasedRobot::GetDirection" name="fp::LandBasedRobot::GetDirection">
+<area shape="rect" id="node2" href="$classfp_1_1_land_based_robot.html#a5df828c5d6c1f7fb4c7b68f53d9c6080" title="fp::LandBasedRobot\l::MoveForward" alt="" coords="195,5,336,47"/>
+<area shape="rect" id="node3" href="$classfp_1_1_land_based_robot.html#acfe49650459e4e6c72b87e6eff1072d9" title="fp::LandBasedRobot\l::~LandBasedRobot" alt="" coords="384,93,525,135"/>
+<area shape="rect" id="node4" href="$classfp_1_1_land_based_robot.html#acd135f01e40d4f2e32739156b56c722f" title="fp::LandBasedRobot\l::TurnLeft" alt="" coords="195,123,336,164"/>
+<area shape="rect" id="node5" href="$classfp_1_1_land_based_robot.html#aa905ba0f9b2670bea138df1e5d6836ff" title="fp::LandBasedRobot\l::TurnRight" alt="" coords="195,188,336,229"/>
+</map>

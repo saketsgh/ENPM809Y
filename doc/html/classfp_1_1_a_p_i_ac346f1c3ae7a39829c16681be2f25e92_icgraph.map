@@ -1,0 +1,8 @@
+<map id="fp::API::turnRight" name="fp::API::turnRight">
+<area shape="rect" id="node2" href="$classfp_1_1_land_based_robot.html#aa905ba0f9b2670bea138df1e5d6836ff" title="fp::LandBasedRobot\l::TurnRight" alt="" coords="185,5,327,47"/>
+<area shape="rect" id="node4" href="$classfp_1_1_land_based_tracked.html#a813613a1eaa7a0782ea254a167d97da3" title="TurnRight: Function orients the robot 90 CW to current orientation. " alt="" coords="179,71,333,112"/>
+<area shape="rect" id="node6" href="$classfp_1_1_land_based_wheeled.html#a505f5c33f04681aa5c7362531947f4ca" title="TurnRight: Function orients the robot 90 CW to current orientation. " alt="" coords="177,136,335,177"/>
+<area shape="rect" id="node3" href="$classfp_1_1_land_based_robot.html#acfe49650459e4e6c72b87e6eff1072d9" title="fp::LandBasedRobot\l::~LandBasedRobot" alt="" coords="391,5,532,47"/>
+<area shape="rect" id="node5" href="$classfp_1_1_land_based_tracked.html#a60b4e1da43f053a5a0351d52d79785e0" title="fp::LandBasedTracked\l::~LandBasedTracked" alt="" coords="385,71,538,112"/>
+<area shape="rect" id="node7" href="$classfp_1_1_land_based_wheeled.html#a241513d1dcf96f4845b64e9256e7bd60" title="fp::LandBasedWheeled\l::LandBasedWheeled" alt="" coords="383,136,540,177"/>
+</map>

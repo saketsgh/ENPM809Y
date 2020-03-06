@@ -1,0 +1,5 @@
+<map id="fp::Algorithm::turn" name="fp::Algorithm::turn">
+<area shape="rect" id="node2" href="$classfp_1_1_land_based_robot.html#ad4a0e1fdac24ed964edef9f5196bd146" title="fp::LandBasedRobot\l::GetDirection" alt="" coords="180,5,321,47"/>
+<area shape="rect" id="node3" href="$classfp_1_1_land_based_robot.html#a7c9e5fccc618e2e0d301605e60510ff0" title="fp::LandBasedRobot\l::TurnRight" alt="" coords="180,71,321,112"/>
+<area shape="rect" id="node4" href="$classfp_1_1_land_based_robot.html#ae02326643473f9af46f839743b880341" title="fp::LandBasedRobot\l::TurnLeft" alt="" coords="180,136,321,177"/>
+</map>

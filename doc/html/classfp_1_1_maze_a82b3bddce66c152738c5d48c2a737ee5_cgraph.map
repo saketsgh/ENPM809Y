@@ -1,0 +1,7 @@
+<map id="fp::Maze::isWall" name="fp::Maze::isWall">
+<area shape="rect" id="node2" href="$classfp_1_1_maze.html#ab89c2512eac2f9cd87938874b5f3299e" title="Accessor. " alt="" coords="171,5,308,32"/>
+<area shape="rect" id="node3" href="$classfp_1_1_a_p_i.html#a52c23ca6b94cd561727e63c4a568bb86" title="A static prototype to check there is a wall in front of the robot. " alt="" coords="177,56,301,83"/>
+<area shape="rect" id="node4" href="$classfp_1_1_a_p_i.html#a49efec34a5521b6a7f202759f7f758d2" title="A static prototype to check there is a wall to the left of the robot. " alt="" coords="181,107,297,133"/>
+<area shape="rect" id="node5" href="$classfp_1_1_a_p_i.html#aeaebbd3b022bc0ed768dc3112ea1db94" title="A static prototype to check there is a wall to the right of the robot. " alt="" coords="177,157,302,184"/>
+<area shape="rect" id="node6" href="$classfp_1_1_maze.html#ad6ce198dc2851108f96d2bc51c675108" title="Accessor. " alt="" coords="173,208,306,235"/>
+</map>

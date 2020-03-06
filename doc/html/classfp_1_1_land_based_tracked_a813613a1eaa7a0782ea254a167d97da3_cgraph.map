@@ -1,0 +1,5 @@
+<map id="fp::LandBasedTracked::TurnRight" name="fp::LandBasedTracked::TurnRight">
+<area shape="rect" id="node2" href="$classfp_1_1_land_based_tracked.html#a3e6ba37a5c5bf8f2b4abb19907e5e9b8" title="GetDirection: Getter function that returns the direction, the robot is facing in. ..." alt="" coords="207,5,360,47"/>
+<area shape="rect" id="node3" href="$classfp_1_1_a_p_i.html#ac346f1c3ae7a39829c16681be2f25e92" title="A static prototype to turn the robot ninty degrees to the right. " alt="" coords="221,71,345,98"/>
+<area shape="rect" id="node4" href="$classfp_1_1_land_based_tracked.html#a73b1b8b50a0ceb263b2af6c1134006d0" title="SetDirection: Setter function that returns the direction, the robot is facing in. ..." alt="" coords="207,123,360,164"/>
+</map>

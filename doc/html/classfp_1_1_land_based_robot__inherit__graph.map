@@ -1,0 +1,4 @@
+<map id="fp::LandBasedRobot" name="fp::LandBasedRobot">
+<area shape="rect" id="node2" href="$classfp_1_1_land_based_tracked.html" title="{fp::LandBasedTracked\n|# track_type_\l|+ LandBasedTracked()\l+ LandBasedTracked()\l+ ~LandBasedTracked()\l+ GetDirection()\l+ MoveForward()\l+ TurnLeft()\l+ TurnRight()\l+ SetDirection()\l}" alt="" coords="5,556,168,736"/>
+<area shape="rect" id="node3" href="$classfp_1_1_land_based_wheeled.html" title="{fp::LandBasedWheeled\n|# wheel_number_\l|+ LandBasedWheeled()\l+ ~LandBasedWheeled()\l+ LandBasedWheeled()\l+ GetDirection()\l+ MoveForward()\l+ TurnLeft()\l+ TurnRight()\l+ SpeedUp()\l+ SetDirection()\l+ get_wheel_num()\l}" alt="" coords="193,541,359,751"/>
+</map>

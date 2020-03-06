@@ -1,0 +1,4 @@
+<map id="fp::Maze::printCell" name="fp::Maze::printCell">
+<area shape="rect" id="node2" href="$classfp_1_1_a_p_i.html#a19710a245ad8c075066046617ea3377b" title="A static prototype to clear the wall at the given position. " alt="" coords="183,5,308,32"/>
+<area shape="rect" id="node3" href="$classfp_1_1_a_p_i.html#a5f209e53ce63ad478bb67b120b34c7dd" title="A static prototype to display the wall at the given position. " alt="" coords="188,56,303,83"/>
+</map>

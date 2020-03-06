@@ -1,0 +1,8 @@
+<map id="fp::LandBasedTracked::MoveForward" name="fp::LandBasedTracked::MoveForward">
+<area shape="rect" id="node2" href="$classfp_1_1_land_based_robot.html#ad05f45c3d3ca6514f9a8ec3358bf0cd9" title="fp::LandBasedRobot\l::get_x" alt="" coords="213,5,354,47"/>
+<area shape="rect" id="node3" href="$classfp_1_1_land_based_robot.html#a6937904696e10710b1b197a506b5bae3" title="fp::LandBasedRobot\l::get_y" alt="" coords="213,71,354,112"/>
+<area shape="rect" id="node4" href="$classfp_1_1_land_based_tracked.html#a3e6ba37a5c5bf8f2b4abb19907e5e9b8" title="GetDirection: Getter function that returns the direction, the robot is facing in. ..." alt="" coords="207,136,360,177"/>
+<area shape="rect" id="node5" href="$classfp_1_1_a_p_i.html#a4863c0dec23d677c5eefb7c03088b29c" title="A static prototype to move the robot forward by one cell. " alt="" coords="208,202,359,229"/>
+<area shape="rect" id="node6" href="$classfp_1_1_land_based_robot.html#ac3a30a3e6250b66a1b43b0e89d7beef9" title="fp::LandBasedRobot\l::set_x" alt="" coords="213,253,354,295"/>
+<area shape="rect" id="node7" href="$classfp_1_1_land_based_robot.html#aeb37518762c4e0753b84c9342796d27e" title="fp::LandBasedRobot\l::set_y" alt="" coords="213,319,354,360"/>
+</map>

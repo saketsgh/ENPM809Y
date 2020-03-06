@@ -1,0 +1,7 @@
+<map id="fp::Algorithm::plotPath" name="fp::Algorithm::plotPath">
+<area shape="rect" id="node2" href="$classfp_1_1_a_p_i.html#a5a7c59cffb4ca483e8c1334a99a04dbb" title="A static prototype to set the color of the cell at the given position. " alt="" coords="210,5,330,32"/>
+<area shape="rect" id="node3" href="$classfp_1_1_maze.html#a0b60acf5aec3346d21921aceed16abe2" title="fp::Maze::printCell" alt="" coords="205,56,335,83"/>
+<area shape="rect" id="node6" href="$classfp_1_1_algorithm.html#a40a913ec91fccbdf86979634d21958fe" title="turn: Function turns the robot orientation. " alt="" coords="207,107,333,133"/>
+<area shape="rect" id="node4" href="$classfp_1_1_a_p_i.html#a19710a245ad8c075066046617ea3377b" title="A static prototype to clear the wall at the given position. " alt="" coords="383,31,508,57"/>
+<area shape="rect" id="node5" href="$classfp_1_1_a_p_i.html#a5f209e53ce63ad478bb67b120b34c7dd" title="A static prototype to display the wall at the given position. " alt="" coords="388,81,503,108"/>
+</map>

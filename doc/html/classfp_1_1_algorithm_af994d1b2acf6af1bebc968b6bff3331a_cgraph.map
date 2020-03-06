@@ -1,0 +1,6 @@
+<map id="fp::Algorithm::DFS" name="fp::Algorithm::DFS">
+<area shape="rect" id="node2" href="$classfp_1_1_algorithm.html#ae0a3717ba0b9a34b6caa9c4924a263f6" title="checkGoal: Function checks if a coordinate is a goal block. " alt="" coords="184,5,351,32"/>
+<area shape="rect" id="node3" href="$classfp_1_1_maze.html#ab89c2512eac2f9cd87938874b5f3299e" title="Accessor. " alt="" coords="199,56,336,83"/>
+<area shape="rect" id="node4" href="$classfp_1_1_maze.html#ad6ce198dc2851108f96d2bc51c675108" title="Accessor. " alt="" coords="201,107,334,133"/>
+<area shape="rect" id="node5" href="$classfp_1_1_a_p_i.html#a5a7c59cffb4ca483e8c1334a99a04dbb" title="A static prototype to set the color of the cell at the given position. " alt="" coords="207,157,327,184"/>
+</map>

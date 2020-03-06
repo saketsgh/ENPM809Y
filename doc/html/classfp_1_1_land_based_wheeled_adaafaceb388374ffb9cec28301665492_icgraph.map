@@ -1,0 +1,6 @@
+<map id="fp::LandBasedWheeled::GetDirection" name="fp::LandBasedWheeled::GetDirection">
+<area shape="rect" id="node2" href="$classfp_1_1_land_based_wheeled.html#af7875b805655b6f654e49a885f31122a" title="MoveForward: Function that moves the robot forward by one block. " alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node3" href="$classfp_1_1_land_based_wheeled.html#a241513d1dcf96f4845b64e9256e7bd60" title="fp::LandBasedWheeled\l::LandBasedWheeled" alt="" coords="416,93,573,135"/>
+<area shape="rect" id="node4" href="$classfp_1_1_land_based_wheeled.html#a240c5e9cf72006ac2f99f8e1dfc4dc5d" title="TurnLeft: Function orients the robot 90 ACW to current orientation. " alt="" coords="211,123,368,164"/>
+<area shape="rect" id="node5" href="$classfp_1_1_land_based_wheeled.html#a505f5c33f04681aa5c7362531947f4ca" title="TurnRight: Function orients the robot 90 CW to current orientation. " alt="" coords="211,188,368,229"/>
+</map>

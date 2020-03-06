@@ -1,0 +1,5 @@
+<map id="fp::LandBasedRobot::TurnLeft" name="fp::LandBasedRobot::TurnLeft">
+<area shape="rect" id="node2" href="$classfp_1_1_land_based_robot.html#a50841b6e40d4e92832770d26b427fea2" title="fp::LandBasedRobot\l::GetDirection" alt="" coords="195,5,336,47"/>
+<area shape="rect" id="node3" href="$classfp_1_1_a_p_i.html#aacf09d263f8c47e7f3eae1f348db0b91" title="A static prototype to turn the robot ninty degrees to the left. " alt="" coords="208,71,323,98"/>
+<area shape="rect" id="node4" href="$classfp_1_1_land_based_robot.html#a57e21d3675eca7eea7f4f26971b2e000" title="fp::LandBasedRobot\l::SetDirection" alt="" coords="195,123,336,164"/>
+</map>
